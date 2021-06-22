@@ -8,3 +8,7 @@ Each repository belongs to a user account or a team. In the case of a user accou
 The repository owner is the only person who can delete the repository. If the repository belongs to a team, an admin can delete the repository.
 A code project can consist of multiple repositories across multiple accounts but can also be a single repository from a single account.
 Each repository has a 2 GB size limit, but we recommend keeping your repository no larger than 1 GB.
+
+
+Step 1. Create the repository
+Initially, the repository you create in Bitbucket is going to be empty without any code in it. That's okay because you will start adding some files to it soon. This Bitbucket repository will be the central repository for your files, which means that others can access that repository if you give them permission. After creating a repository, you'll copy a version to your local system—that way you can update it from one repo, then transfer those changes to the other.
